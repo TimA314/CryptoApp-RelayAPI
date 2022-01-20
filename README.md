@@ -12,6 +12,5 @@ Limits API use through rate limiter. <br>
     Node.js
     Express
     Axios
-    Cors
   
   
